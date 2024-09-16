@@ -3,7 +3,7 @@
 color = { 169 3 3 }
 graphical_culture = SouthAmericanGC
 
-# Facción Radical / Radical Faction (No Organized Party)
+# Radicalistas / Radical Faction (No Organized Party)
 party = {
 	name = "MYA_anarcho_liberal"
 	start_date = 1840.1.1
@@ -19,7 +19,7 @@ party = {
 	war_policy = pro_military
 }
 
-# Facción Comunista / Communist Faction (No Organized Party)
+# Comunistas / Communist Faction (No Organized Party)
 party = {
 	name = "MYA_communist"
 	start_date = 1840.1.1
@@ -67,7 +67,7 @@ party = {
 	war_policy = pro_military
 }
 
-# Maya Imperialistas
+# Imperialistas
 party = {
 	name = "MYA_reactionary"
 	start_date = 1821.9.27
@@ -83,7 +83,7 @@ party = {
 	war_policy = jingoism
 }
 
-# Facción Socialista / Socialist Faction (No Organized Party)
+# Socialistas / Socialist Faction (No Organized Party)
 party = {
 	name = "MYA_socialist"
 	start_date = 1840.1.1
